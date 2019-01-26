@@ -16,6 +16,7 @@ namespace c0730319
     class Node
     {
         Node previousNode;
+        //ghgh
 
         Node Nextnode;
     }
