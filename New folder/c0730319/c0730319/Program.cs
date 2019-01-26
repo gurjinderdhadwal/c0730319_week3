@@ -12,12 +12,16 @@ namespace c0730319
         {
         }
     }
-
-    class Node
+    class countryside
     {
-        Node previousNode;
-        //ghgh
+    }
 
-        Node Nextnode;
+    class village
+    {
+        Node previousvillage;
+        Node Nextvillage;
+        String villageName;
+        bool isAstrildehere = false;
+        public village(){}
     }
 }
