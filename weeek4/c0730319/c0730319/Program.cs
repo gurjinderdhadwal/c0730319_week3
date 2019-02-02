@@ -67,6 +67,7 @@ namespace C0730319
             Toronto.villageName = "Toronto";
             Ajax.nextVillage = null;
         }
+
         public void travel()
         {
             CurrentVillage = Maple;
